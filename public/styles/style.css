@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(145, 173, 230);
+}
+
+button {
+  font-size: 10px;
+  font-family: monospace;
+  max-height: 20px;
+  max-width: 40px;
+  margin: .5px;
+  padding: .5px;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color:rgb(0, 71, 209);
+
+}

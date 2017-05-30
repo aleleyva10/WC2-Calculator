@@ -1,0 +1,23 @@
+{
+  "name": "WC2-Calculator",
+  "version": "1.0.0",
+  "description": "calculator application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleleyva10/WC2-Calculator.git"
+  },
+  "author": "Alessandro Leyva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleleyva10/WC2-Calculator/issues"
+  },
+  "homepage": "https://github.com/aleleyva10/WC2-Calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
