@@ -10,10 +10,9 @@ app.use(bodyParser.urlencoded({
   extended: true
 }));
 
-var port = process.env.PORT || 5678;
 var findResult = [];
 //Listen
-app.listen(port, function() {
+app.listen(5678, function() {
   console.log('server up at 5678');
 });
 
